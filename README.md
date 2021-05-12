@@ -88,6 +88,17 @@
 - 게시글의 내용이 보이며, AJAX처리를 통해 댓글을 작성합니다.
 - 사용자 DB에서 ID 대조를 통해 본인이 작성한 댓글만 삭제가 가능하도록 설계했습니다. <br><br>
   ![board2](https://user-images.githubusercontent.com/61649201/106739829-f3e7a100-665c-11eb-87ec-fecd4e596d6a.PNG)
+ 
+### 게시물 입력, 수정, 삭제 화면 
+![image](https://user-images.githubusercontent.com/61649201/117913545-7d71d380-b31c-11eb-962e-91b7e17c2a72.png)
+![image](https://user-images.githubusercontent.com/61649201/117914004-68e20b00-b31d-11eb-9dfd-31bca2a5b0db.png)
+![image](https://user-images.githubusercontent.com/61649201/117914103-916a0500-b31d-11eb-9eec-eba999aede97.png)
+
+### 회원 탈퇴기능 
+
+- 탈퇴 버튼을 통해 회원정보를 삭제하고, 서비스를 탈퇴할 수 있습니다. 
+- 이때, 사용자의 비밀번호를 입력해야 탈퇴 절차가 진행됩니다. 
+![image](https://user-images.githubusercontent.com/61649201/117914219-d857fa80-b31d-11eb-9ce6-2f9f76524eb7.png)
 
 ### 제테크 정보영상 화면
 
